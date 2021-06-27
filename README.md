@@ -75,6 +75,7 @@
 
   ### Sorting
   - [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
+  - [Insertion Sort For Single Linked List](https://github.com/akashanup/programming/tree/main/InsertionSortForSinglyLinkedList)
   - [Binary Insertion Sort](https://github.com/akashanup/programming/tree/main/BinaryInsertionSort)
   - [Merge Sort](https://github.com/akashanup/programming/tree/main/MergeSort)
   - [Counting Sort](https://github.com/akashanup/python-programming/tree/main/CountingSort)
